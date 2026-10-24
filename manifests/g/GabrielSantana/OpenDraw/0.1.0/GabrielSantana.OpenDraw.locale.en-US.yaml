@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.9.0.schema.json
+PackageIdentifier: GabrielSantana.OpenDraw
+PackageVersion: 0.1.0
+PackageLocale: en-US
+Publisher: Gabriel Santana
+PublisherUrl: https://github.com/gabe-santana
+PublisherSupportUrl: https://github.com/gabe-santana/opendraw/issues
+Author: Gabriel Santana
+PackageName: OpenDraw
+PackageUrl: https://github.com/gabe-santana/opendraw
+License: MIT
+LicenseUrl: https://github.com/gabe-santana/opendraw/blob/main/LICENSE
+Copyright: Copyright (c) 2026 Gabriel Santana
+ShortDescription: Open-source, local-first diagram editor.
+Description: |-
+  OpenDraw is an open-source, offline diagram editor for flowcharts, cloud architecture,
+  UML, ER, BPMN and more. Diagrams are plain files on your disk; it opens and saves .drawio
+  files, ships official cloud icon packs and can generate diagrams with AI using your own key.
+Moniker: opendraw
+Tags:
+- diagram
+- diagrams
+- flowchart
+- uml
+- architecture
+- cloud
+- whiteboard
+- drawing
+ReleaseNotesUrl: https://github.com/gabe-santana/opendraw/releases/tag/v0.1.0
+ManifestType: defaultLocale
+ManifestVersion: 1.9.0
